@@ -1,2 +1,0 @@
-# openclassroomproject
-first try
